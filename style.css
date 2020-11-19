@@ -1,0 +1,25 @@
+
+#firstDiv{
+margin:0;
+ background-color:
+  #f2f2f2;
+   padding:5px;
+   border-bottom: 2px solid red;
+   color:blueviolet";
+}
+.p1{
+    color:green;
+    margin:0;
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.p2{
+    height:100px;
+    background-image: url(test2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+    overflow: scroll;
+    
+}

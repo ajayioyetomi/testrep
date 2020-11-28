@@ -7,6 +7,10 @@ margin:0;
    border-bottom: 2px solid red;
    color:blueviolet";
 }
+body{
+    padding:0 !important;
+    margin:0 !important;
+}
 .p1{
     color:green;
     margin:0;
